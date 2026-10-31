@@ -1,6 +1,7 @@
 ---
 name: inventor-mindset
-description: Makes Claude think and work like an inventor, research engineer, or scientist when building something new in software. Use whenever the user wants to design, architect, prototype, or build a novel system, tool, algorithm, library, product, or AI feature, or asks to "think harder", "go deeper", "invent", "innovate", "push further", "first principles", "make this better than the obvious solution", or says the first answer isn't good enough. Also use when a problem has no off-the-shelf answer, when a solution feels generic, or when the user is stuck. Trigger even if the user never says "inventor"; any open-ended "build me something new" request qualifies. Skip for trivial edits, simple lookups, and routine CRUD work.
+description: Guides the agent to work like an inventor or research engineer when building something new in software, using first principles, divergent options, cheap experiments and self-attack. Use when the user wants to design, architect, prototype or invent a novel system, tool, algorithm, library or AI feature, asks to "think harder", "go deeper", "first principles" or "innovate", says the first answer isn't good enough, or faces a problem with no off-the-shelf answer. Skip for trivial edits, simple lookups and routine CRUD.
+license: MIT
 ---
 
 # Inventor Mindset
